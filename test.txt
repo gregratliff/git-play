@@ -1,3 +1,5 @@
+And an even newer line 1... the old line 1 is now line 2.
+
 A new line1 from first copy. This is some text...
 
 I am just wanting to play around with git right now.
@@ -5,3 +7,5 @@ I am just wanting to play around with git right now.
 Let's make some changes...
 
 I'm going to make a change from my second copy...
+
+And this is a line at the end.
