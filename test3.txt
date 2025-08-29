@@ -1,0 +1,10 @@
+Here is my third text file in my git-play project. 
+
+I'm currently trying to figure out how to do stuff with branches.
+
+I made a branch and merged it locally and pushed main and github has no idea a branch was ever involved.  I want my branches to exist on the remote origin, so I need to figure that out.
+
+
+I'm just wondering what else I will use nvim and github for once I am a power user?
+
+
