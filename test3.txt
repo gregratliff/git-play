@@ -8,3 +8,5 @@ I made a branch and merged it locally and pushed main and github has no idea a b
 I'm just wondering what else I will use nvim and github for once I am a power user?
 
 
+So... I forgot to switch to my branch... so even though I had made a branch and then made changes... the changes went into main, not feature branch.  I hope this is a feature branch.
+
